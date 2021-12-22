@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceOrCoin</string>
+    <string name="switch_">Switch</string>
+    <string name="Coin">Coin</string>
+    <string name="Dice">Dice</string>
+    <string name="Win">Win!!!</string>
+    <string name="Flip">FLIP</string>
+    <string name="Roll">ROLL</string>
+    <string name="result">%1$s %2$d: %3$s</string>
+    <string name="resultHead">%1$s %2$d: %3$s</string>
+</resources>
